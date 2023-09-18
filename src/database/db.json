@@ -1,0 +1,28 @@
+[
+    {
+        "id": "f1e91049-e866-4f6f-9d87-d6fd366aecbf",
+        "name": "Crucio",
+        "description": "One of three Unforgivable Curses, it causes unbearable pain in the target"
+    },
+    {
+        "id": "de048df0-b227-4376-a29b-90fe6878d950",
+        "name": "Incendio",
+        "description": "Conjures flames"
+    },
+    {
+        "id": "c4a4520b-b80d-49e8-9e5a-3ca0a7f376ca",
+        "name": "Langlock",
+        "description": "Causes the target's tongue to stick to the roof of their mouth"
+    },
+    {
+        "id": "ad5685f8-6e05-49b1-a41c-d72786001d72",
+        "name": "Piertotum Locomotor",
+        "description": "Incantation used to bring to life inanimate objects and artifacts"
+    },
+    {
+        "id": "e23728b2-f6fd-4c70-a1d2-ce602940d873",
+        "name": "Wingardium Leviosa",
+        "description": "Causes an object to levitate; but remember what Hermione said: \"It's Wing-gar-dium Levi-o-sa, make the 'gar' nice and long.'\""
+    }
+
+]
